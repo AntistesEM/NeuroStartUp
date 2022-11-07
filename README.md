@@ -5,5 +5,4 @@
 1. Высокая точность поиска
 2. Высокая скорость поиска
 3. Низкая цена
-   
-[ссылка из моего браузера](https://github.com/Vpersov/NeuroStartUp)
+[ссылка из моего браузера](https://github.com/Vpersov/NeuroStartUp)   
